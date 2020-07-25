@@ -1,5 +1,6 @@
 # ConvoltionalGAN
 ![GANの仕組み](GANnoshikumi.jpg)<br>
+![GANの仕組み](GAN_SHIKUMI.jpg)
 ## Discriminator
 ![Discriminator](C_Discriminator.jpg)<br>
 
@@ -8,6 +9,9 @@
 
 ## Generated Image before Learning
 ![Generated Images](shokiseiseiimage.png)
+
+## Learning Graph
+![learning glaph](graph_GAN.ipynb.png)
 
 ## Generated Images after Learning
 ![G IMages](seiseiimage.png)
